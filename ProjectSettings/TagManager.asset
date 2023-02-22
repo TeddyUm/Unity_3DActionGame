@@ -4,8 +4,20 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - City
-  - Overworld
+  - Collision
+  - Floor
+  - Weapon
+  - SpringBoneEnd
+  - SpringBone
+  - Bullet
+  - Melee
+  - FxTemporaire
+  - Gold
+  - Heart
+  - Enemy
+  - EnemyBullet
+  - Ammo
+  - Explosion
   layers:
   - Default
   - TransparentFX
@@ -15,7 +27,7 @@ TagManager:
   - UI
   - 
   - 
-  - EncounterZone
+  - 
   - 
   - 
   - 
@@ -40,12 +52,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 2312288047
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Foreground
-    uniqueID: 1539241549
     locked: 0
