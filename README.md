@@ -7,7 +7,7 @@ Genre: RPG<br>
 - 3D Player control animation system<br>
 - Weapon change system<br>
 - 3 type of enemies(melee, range, boss)<br>
-- Item system<br>
+- Item system<br><br>
 
 <img src="https://github.com/TeddyUm/Unity_3DActionGame/blob/main/1677111022778.jpg" width="500" height="300">
 <img src="https://github.com/TeddyUm/Unity_3DActionGame/blob/main/1677111061080.jpg" width="500" height="300">
